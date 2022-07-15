@@ -24,7 +24,7 @@ let temp="";
         display.value=Math.exp(currentdisplay);
     }
   
-    else if(mybtntext=="log10"){
+    else if(mybtntext=="log"){
     display.value=Math.log10(currentdisplay);
     }
 
